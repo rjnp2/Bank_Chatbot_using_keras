@@ -1,4 +1,4 @@
-# Bank_Chatbot_using_keras
+# Bank Chatbot using keras
 
 #### What is a Chatbot?
 A chatbot is an AI-based software designed to interact with humans in their natural languages. These chatbots are usually converse via auditory or textual methods, and they can effortlessly mimic human languages to communicate with human beings in a human-like manner. A chatbot is arguably one of the best applications of natural language processing.
@@ -40,3 +40,6 @@ To build a chatbot in Python, we have to import all the necessary packages and i
 This is where tokenizing helps with text data – it helps fragment the large text dataset into smaller, readable chunks (like words). Once that is done, we can also go for lemmatization that transforms a word into its lemma form. Then it creates a pickle file to store the python objects that are used for predicting the responses of the bot. 
 
 Another vital part of the chatbot development process is creating the training and testing datasets.
+
+## Output
+![1](https://github.com/rjnp2/Bank_Chatbot_using_keras/blob/main/images/1.png)
